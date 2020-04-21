@@ -6,7 +6,7 @@ public class ClientForMVCaccessOfStude {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to Role based access system using protective proxy design pattern ");
+		System.out.println("Welcome to Role based access system using protective proxy design pattern new ");
 
 		// Create a view : to write student details on console
 		StudentView view = new StudentView();
